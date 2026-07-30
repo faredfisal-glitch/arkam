@@ -1,0 +1,525 @@
+2026-07-27 22:52:14,381 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-07-27 22:52:14,382 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-07-27 22:52:15,722 - HybridBot - INFO - تم تهيئة قاعدة البيانات بنجاح.
+2026-07-27 22:52:15,728 - HybridBot - INFO - تم بدء نظام مراقبة أمان الجلسات (كل 15 دقيقة).
+2026-07-27 22:52:18,454 - aiogram.dispatcher - INFO - Start polling
+2026-07-27 22:52:18,526 - aiogram.dispatcher - INFO - Run polling for bot @u77wbot id=8939609316 - 'سحب ارقام'
+2026-07-27 22:52:22,341 - aiogram.event - INFO - Update id=369971661 is handled. Duration 343 ms by bot id=8939609316
+2026-07-27 22:52:28,567 - aiogram.event - INFO - Update id=369971662 is handled. Duration 593 ms by bot id=8939609316
+2026-07-27 22:52:30,512 - aiogram.event - INFO - Update id=369971663 is handled. Duration 327 ms by bot id=8939609316
+2026-07-27 22:52:31,933 - aiogram.event - INFO - Update id=369971664 is handled. Duration 297 ms by bot id=8939609316
+2026-07-27 22:52:34,320 - aiogram.event - INFO - Update id=369971665 is handled. Duration 312 ms by bot id=8939609316
+2026-07-27 22:52:35,348 - aiogram.event - INFO - Update id=369971666 is handled. Duration 265 ms by bot id=8939609316
+2026-07-27 22:52:39,902 - aiogram.event - INFO - Update id=369971667 is handled. Duration 547 ms by bot id=8939609316
+2026-07-27 22:52:42,546 - aiogram.event - INFO - Update id=369971668 is handled. Duration 295 ms by bot id=8939609316
+2026-07-27 22:52:43,767 - aiogram.event - INFO - Update id=369971669 is handled. Duration 233 ms by bot id=8939609316
+2026-07-27 22:52:47,522 - aiogram.event - INFO - Update id=369971670 is handled. Duration 593 ms by bot id=8939609316
+2026-07-27 22:52:49,830 - aiogram.event - INFO - Update id=369971671 is handled. Duration 93 ms by bot id=8939609316
+2026-07-27 22:52:53,331 - aiogram.event - INFO - Update id=369971672 is handled. Duration 265 ms by bot id=8939609316
+2026-07-27 22:53:22,781 - aiogram.event - INFO - Update id=369971673 is handled. Duration 1360 ms by bot id=8939609316
+2026-07-27 22:53:25,892 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-07-27 22:53:27,131 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-07-27 22:53:27,560 - telethon.client.users - INFO - Phone migrated to 4
+2026-07-27 22:53:27,560 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2026-07-27 22:53:27,673 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-07-27 22:53:27,674 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-07-27 22:53:27,674 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2026-07-27 22:53:29,174 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2026-07-27 22:53:29,877 - HybridBot - INFO - تم إرسال كود التحقق إلى +201031824936
+2026-07-27 22:53:29,944 - HybridBot - WARNING - Could not edit start message: Telegram server says - Bad Request: message can't be edited
+2026-07-27 22:53:30,112 - aiogram.event - INFO - Update id=369971674 is handled. Duration 4687 ms by bot id=8939609316
+2026-07-27 22:53:59,093 - HybridBot - INFO - انتظار 0 ثانية (Anti-Ban)
+2026-07-27 22:53:59,586 - aiogram.event - INFO - Update id=369971675 is handled. Duration 500 ms by bot id=8939609316
+2026-07-27 22:54:04,891 - HybridBot - INFO - انتظار 0 ثانية (Anti-Ban)
+2026-07-27 22:54:05,890 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2026-07-27 22:54:05,891 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-07-27 22:54:06,303 - aiogram.event - INFO - Update id=369971676 is handled. Duration 1422 ms by bot id=8939609316
+2026-07-27 22:54:06,303 - HybridBot - INFO - 🚀 بدء التأمين الفوري للحساب +201031824936
+2026-07-27 22:54:06,306 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2026-07-27 22:54:06,382 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2026-07-27 22:54:06,531 - telethon.network.mtprotosender - INFO - System clock is wrong, set time offset to -32s
+2026-07-27 22:54:07,608 - HybridBot - INFO - ✅ تم إعداد التحقق بخطوتين بنجاح للحساب +201031824936
+2026-07-27 22:54:11,173 - aiogram.event - INFO - Update id=369971677 is handled. Duration 2687 ms by bot id=8939609316
+2026-07-27 22:54:15,750 - HybridBot - INFO - تمت عملية تدفئة الجلسة للحساب +201031824936
+2026-07-27 22:54:16,209 - aiogram.event - INFO - Update id=369971678 is handled. Duration 375 ms by bot id=8939609316
+2026-07-27 22:54:25,901 - HybridBot - INFO - نجح الطرد الجماعي لـ +201031824936
+2026-07-27 22:54:26,597 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2026-07-27 22:54:26,598 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-07-27 23:07:15,746 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2026-07-27 23:07:15,809 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2026-07-27 23:07:15,960 - telethon.network.mtprotosender - INFO - System clock is wrong, set time offset to -32s
+2026-07-27 23:07:16,032 - telethon.network.mtprotostate - WARNING - Server resent the older message 7667301759076155393, ignoring
+2026-07-27 23:07:16,558 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2026-07-27 23:07:16,559 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-07-27 23:22:17,618 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2026-07-27 23:22:17,690 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2026-07-27 23:22:17,841 - telethon.network.mtprotosender - INFO - System clock is wrong, set time offset to -32s
+2026-07-27 23:22:17,916 - telethon.network.mtprotostate - WARNING - Server resent the older message 7667305632630287361, ignoring
+2026-07-27 23:22:18,322 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2026-07-27 23:22:18,322 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-07-27 23:37:19,380 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2026-07-27 23:37:19,446 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2026-07-27 23:37:19,592 - telethon.network.mtprotosender - INFO - System clock is wrong, set time offset to -32s
+2026-07-27 23:37:19,662 - telethon.network.mtprotostate - WARNING - Server resent the older message 7667309505574713345, ignoring
+2026-07-27 23:37:20,073 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2026-07-27 23:37:20,074 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-07-27 23:52:21,193 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2026-07-27 23:52:21,258 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2026-07-27 23:52:21,414 - telethon.network.mtprotosender - INFO - System clock is wrong, set time offset to -32s
+2026-07-27 23:52:22,094 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2026-07-27 23:52:22,094 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-07-30 21:32:08,371 - telethon.crypto.aes - INFO - libssl detected, it will be used for encryption
+2026-07-30 21:32:09,568 - HybridBot - INFO - تم تهيئة قاعدة البيانات بنجاح.
+2026-07-30 21:32:09,578 - HybridBot - INFO - تم بدء نظام مراقبة أمان الجلسات (كل 15 دقيقة).
+2026-07-30 21:32:09,737 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2026-07-30 21:32:09,831 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2026-07-30 21:32:11,141 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2026-07-30 21:32:11,143 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-07-30 21:32:12,745 - aiogram.dispatcher - INFO - Start polling
+2026-07-30 21:32:12,874 - aiogram.dispatcher - INFO - Run polling for bot @ywg6bot id=8923461434 - 'سحب ارقام'
+2026-07-30 21:32:24,872 - aiogram.event - INFO - Update id=316338814 is handled. Duration 676 ms by bot id=8923461434
+2026-07-30 21:32:29,642 - aiogram.event - INFO - Update id=316338815 is handled. Duration 313 ms by bot id=8923461434
+2026-07-30 21:32:32,643 - aiogram.event - INFO - Update id=316338816 is handled. Duration 454 ms by bot id=8923461434
+2026-07-30 21:32:39,054 - aiogram.event - INFO - Update id=316338817 is handled. Duration 1211 ms by bot id=8923461434
+2026-07-30 21:32:46,488 - aiogram.event - INFO - Update id=316338818 is handled. Duration 460 ms by bot id=8923461434
+2026-07-30 21:32:48,470 - aiogram.event - INFO - Update id=316338819 is handled. Duration 397 ms by bot id=8923461434
+2026-07-30 21:32:53,437 - aiogram.event - INFO - Update id=316338820 is handled. Duration 1630 ms by bot id=8923461434
+2026-07-30 21:32:58,867 - aiogram.event - INFO - Update id=316338821 is handled. Duration 1506 ms by bot id=8923461434
+2026-07-30 21:32:59,964 - aiogram.event - INFO - Update id=316338822 is handled. Duration 475 ms by bot id=8923461434
+2026-07-30 21:33:24,821 - aiogram.event - INFO - Update id=316338823 is not handled. Duration 399 ms by bot id=8923461434
+2026-07-30 21:33:24,822 - aiogram.event - ERROR - Cause exception while process update id=316338823 by bot id=8923461434
+ValueError: not enough values to unpack (expected 6, got 5)
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 167, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 159, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 195, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 167, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 159, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 187, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/handlers.py", line 1051, in fetch_code_for_phone_handler
+    success, result = await get_code_for_phone_task(phone)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/tasks.py", line 145, in get_code_for_phone_task
+    client = await get_client(phone, session_name, proxy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/accounts.py", line 202, in get_client
+    client = TelegramClient(
+        session_path,
+    ...<7 lines>...
+        system_lang_code="ar-AE"
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 297, in __init__
+    session = SQLiteSession(str(session))
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/sessions/sqlite.py", line 65, in __init__
+    self._dc_id, self._server_address, self._port, key, tmp_key, \
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._takeout_id = tuple_
+        ^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 6, got 5)
+2026-07-30 21:33:42,399 - aiogram.event - INFO - Update id=316338824 is handled. Duration 407 ms by bot id=8923461434
+2026-07-30 21:33:45,860 - aiogram.event - INFO - Update id=316338825 is handled. Duration 387 ms by bot id=8923461434
+2026-07-30 21:33:47,074 - aiogram.event - INFO - Update id=316338826 is handled. Duration 415 ms by bot id=8923461434
+2026-07-30 21:33:48,485 - HybridBot - ERROR - Error in terminate_account_session_task: not enough values to unpack (expected 6, got 5)
+2026-07-30 21:33:48,973 - aiogram.event - INFO - Update id=316338827 is handled. Duration 1097 ms by bot id=8923461434
+2026-07-30 21:33:50,752 - aiogram.event - INFO - Update id=316338828 is handled. Duration 388 ms by bot id=8923461434
+2026-07-30 21:33:53,715 - aiogram.event - INFO - Update id=316338829 is handled. Duration 390 ms by bot id=8923461434
+2026-07-30 21:33:56,470 - aiogram.event - INFO - Update id=316338830 is handled. Duration 354 ms by bot id=8923461434
+2026-07-30 21:33:58,366 - aiogram.event - INFO - Update id=316338831 is handled. Duration 287 ms by bot id=8923461434
+2026-07-30 21:33:59,704 - aiogram.event - INFO - Update id=316338832 is handled. Duration 421 ms by bot id=8923461434
+2026-07-30 21:34:05,054 - aiogram.event - INFO - Update id=316338833 is handled. Duration 285 ms by bot id=8923461434
+2026-07-30 21:34:07,288 - aiogram.event - INFO - Update id=316338834 is handled. Duration 483 ms by bot id=8923461434
+2026-07-30 21:34:09,297 - aiogram.event - INFO - Update id=316338835 is handled. Duration 324 ms by bot id=8923461434
+2026-07-30 21:34:10,726 - aiogram.event - INFO - Update id=316338836 is handled. Duration 428 ms by bot id=8923461434
+2026-07-30 21:34:19,809 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-07-30 21:34:23,291 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-07-30 21:34:23,918 - telethon.client.users - INFO - Phone migrated to 4
+2026-07-30 21:34:23,919 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2026-07-30 21:34:24,104 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2026-07-30 21:34:24,105 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-07-30 21:34:24,106 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2026-07-30 21:34:25,870 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2026-07-30 21:34:26,628 - HybridBot - INFO - تم إرسال كود التحقق إلى +201023411865
+2026-07-30 21:34:26,961 - aiogram.event - INFO - Update id=316338837 is handled. Duration 7757 ms by bot id=8923461434
+2026-07-30 21:34:34,155 - HybridBot - INFO - انتظار 0 ثانية (Anti-Ban)
+2026-07-30 21:34:34,789 - aiogram.event - INFO - Update id=316338838 is handled. Duration 642 ms by bot id=8923461434
+2026-07-30 21:34:39,871 - HybridBot - INFO - انتظار 0 ثانية (Anti-Ban)
+2026-07-30 21:34:41,413 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2026-07-30 21:34:41,414 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-07-30 21:34:41,645 - aiogram.event - INFO - Update id=316338839 is handled. Duration 1781 ms by bot id=8923461434
+2026-07-30 21:34:41,645 - HybridBot - INFO - 🚀 بدء التأمين الفوري للحساب +201023411865
+2026-07-30 21:34:41,954 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-142' coro=<automate_account_setup() done, defined at /storage/emulated/0/download/سحب اكات/DivoSource/handlers.py:667> exception=ValueError('not enough values to unpack (expected 6, got 5)')>
+Traceback (most recent call last):
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/handlers.py", line 681, in automate_account_setup
+    client = await get_client(phone, session_name, None)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/accounts.py", line 202, in get_client
+    client = TelegramClient(
+        session_path,
+    ...<7 lines>...
+        system_lang_code="ar-AE"
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 297, in __init__
+    session = SQLiteSession(str(session))
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/sessions/sqlite.py", line 65, in __init__
+    self._dc_id, self._server_address, self._port, key, tmp_key, \
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._takeout_id = tuple_
+        ^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 6, got 5)
+2026-07-30 21:36:03,097 - aiogram.event - INFO - Update id=316338840 is handled. Duration 399 ms by bot id=8923461434
+2026-07-30 21:36:05,791 - aiogram.event - INFO - Update id=316338841 is handled. Duration 414 ms by bot id=8923461434
+2026-07-30 21:36:11,067 - aiogram.event - INFO - Update id=316338842 is handled. Duration 682 ms by bot id=8923461434
+2026-07-30 21:36:12,573 - aiogram.event - INFO - Update id=316338843 is handled. Duration 429 ms by bot id=8923461434
+2026-07-30 21:36:16,915 - aiogram.event - INFO - Update id=316338844 is handled. Duration 440 ms by bot id=8923461434
+2026-07-30 21:36:25,432 - aiogram.event - INFO - Update id=316338845 is not handled. Duration 980 ms by bot id=8923461434
+2026-07-30 21:36:25,433 - aiogram.event - ERROR - Cause exception while process update id=316338845 by bot id=8923461434
+ValueError: not enough values to unpack (expected 6, got 5)
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 167, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 159, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 195, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 167, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 159, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 187, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/handlers.py", line 2056, in e_addph_process
+    res = await add_photo_task(phone, photo_path)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/edit_tasks.py", line 82, in add_photo_task
+    return await execute_for_phone(phone, _action_add_photo, photo_path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/tasks.py", line 103, in execute_for_phone
+    client = await get_client(phone, session_name, proxy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/accounts.py", line 202, in get_client
+    client = TelegramClient(
+        session_path,
+    ...<7 lines>...
+        system_lang_code="ar-AE"
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 297, in __init__
+    session = SQLiteSession(str(session))
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/sessions/sqlite.py", line 65, in __init__
+    self._dc_id, self._server_address, self._port, key, tmp_key, \
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._takeout_id = tuple_
+        ^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 6, got 5)
+2026-07-30 21:36:52,519 - aiogram.event - INFO - Update id=316338846 is handled. Duration 522 ms by bot id=8923461434
+2026-07-30 21:36:54,134 - aiogram.event - INFO - Update id=316338847 is handled. Duration 308 ms by bot id=8923461434
+2026-07-30 21:36:55,941 - aiogram.event - INFO - Update id=316338848 is handled. Duration 548 ms by bot id=8923461434
+2026-07-30 21:37:00,565 - aiogram.event - INFO - Update id=316338849 is handled. Duration 606 ms by bot id=8923461434
+2026-07-30 21:37:28,695 - aiogram.event - INFO - Update id=316338850 is handled. Duration 414 ms by bot id=8923461434
+2026-07-30 21:37:32,239 - aiogram.event - INFO - Update id=316338851 is handled. Duration 348 ms by bot id=8923461434
+2026-07-30 21:37:36,621 - aiogram.event - INFO - Update id=316338852 is handled. Duration 380 ms by bot id=8923461434
+2026-07-30 21:37:39,154 - HybridBot - INFO - Starting transfer: type=online, source=https://t.me/el_5w, target=https://t.me/F7xcc, target_count=50, adds_per_acc=1
+2026-07-30 21:37:39,831 - aiogram.event - INFO - Update id=316338853 is handled. Duration 753 ms by bot id=8923461434
+2026-07-30 21:37:39,944 - HybridBot - INFO - Job 1 started. Type: online, Target: 50, Adds/Acc: 1
+2026-07-30 21:37:40,080 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-206' coro=<run_transfer_job() done, defined at /storage/emulated/0/download/سحب اكات/DivoSource/transfer_tasks.py:379> exception=ValueError('not enough values to unpack (expected 6, got 5)')>
+Traceback (most recent call last):
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/transfer_tasks.py", line 443, in run_transfer_job
+    results = await asyncio.gather(*conn_tasks)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/transfer_tasks.py", line 403, in connect_and_verify
+    client = await get_client(phone, session_name, proxy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/accounts.py", line 202, in get_client
+    client = TelegramClient(
+        session_path,
+    ...<7 lines>...
+        system_lang_code="ar-AE"
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 297, in __init__
+    session = SQLiteSession(str(session))
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/sessions/sqlite.py", line 65, in __init__
+    self._dc_id, self._server_address, self._port, key, tmp_key, \
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._takeout_id = tuple_
+        ^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 6, got 5)
+2026-07-30 21:40:21,635 - aiogram.event - INFO - Update id=316338854 is handled. Duration 520 ms by bot id=8923461434
+2026-07-30 21:40:25,542 - aiogram.event - INFO - Update id=316338855 is handled. Duration 445 ms by bot id=8923461434
+2026-07-30 21:40:30,782 - aiogram.event - INFO - Update id=316338856 is handled. Duration 409 ms by bot id=8923461434
+2026-07-30 21:40:32,970 - aiogram.event - INFO - Update id=316338857 is handled. Duration 461 ms by bot id=8923461434
+2026-07-30 21:40:37,729 - aiogram.event - INFO - Update id=316338858 is handled. Duration 506 ms by bot id=8923461434
+2026-07-30 21:40:47,182 - aiogram.event - INFO - Update id=316338859 is not handled. Duration 430 ms by bot id=8923461434
+2026-07-30 21:40:47,182 - aiogram.event - ERROR - Cause exception while process update id=316338859 by bot id=8923461434
+ValueError: not enough values to unpack (expected 6, got 5)
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 167, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 159, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 195, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 167, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 159, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 187, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/handlers.py", line 2108, in process_login_email_input
+    success, result = await init_change_login_email_task(phone, new_email)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/tasks.py", line 576, in init_change_login_email_task
+    client = await get_client(phone, session_name, proxy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/accounts.py", line 202, in get_client
+    client = TelegramClient(
+        session_path,
+    ...<7 lines>...
+        system_lang_code="ar-AE"
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 297, in __init__
+    session = SQLiteSession(str(session))
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/sessions/sqlite.py", line 65, in __init__
+    self._dc_id, self._server_address, self._port, key, tmp_key, \
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._takeout_id = tuple_
+        ^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 6, got 5)
+2026-07-30 21:41:50,373 - aiogram.event - INFO - Update id=316338860 is handled. Duration 323 ms by bot id=8923461434
+2026-07-30 21:41:56,414 - aiogram.event - INFO - Update id=316338861 is handled. Duration 342 ms by bot id=8923461434
+2026-07-30 21:41:59,687 - aiogram.event - INFO - Update id=316338862 is handled. Duration 1072 ms by bot id=8923461434
+2026-07-30 21:42:00,726 - aiogram.event - INFO - Update id=316338863 is handled. Duration 366 ms by bot id=8923461434
+2026-07-30 21:42:01,984 - aiogram.event - INFO - Update id=316338864 is not handled. Duration 602 ms by bot id=8923461434
+2026-07-30 21:42:01,985 - aiogram.event - ERROR - Cause exception while process update id=316338864 by bot id=8923461434
+ValueError: not enough values to unpack (expected 6, got 5)
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 167, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 159, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 195, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 167, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 159, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 187, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/handlers.py", line 1051, in fetch_code_for_phone_handler
+    success, result = await get_code_for_phone_task(phone)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/tasks.py", line 145, in get_code_for_phone_task
+    client = await get_client(phone, session_name, proxy)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/download/سحب اكات/DivoSource/accounts.py", line 202, in get_client
+    client = TelegramClient(
+        session_path,
+    ...<7 lines>...
+        system_lang_code="ar-AE"
+    )
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/client/telegrambaseclient.py", line 297, in __init__
+    session = SQLiteSession(str(session))
+  File "/data/data/com.termux/files/usr/lib/python3.13/site-packages/telethon/sessions/sqlite.py", line 65, in __init__
+    self._dc_id, self._server_address, self._port, key, tmp_key, \
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._takeout_id = tuple_
+        ^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 6, got 5)
+2026-07-30 21:55:57,761 - aiogram.event - INFO - Update id=316338865 is handled. Duration 437 ms by bot id=8923461434
+2026-07-30 21:56:00,375 - aiogram.event - INFO - Update id=316338866 is handled. Duration 581 ms by bot id=8923461434
+2026-07-30 21:56:03,302 - aiogram.event - INFO - Update id=316338867 is handled. Duration 508 ms by bot id=8923461434
+2026-07-30 21:56:06,010 - aiogram.event - INFO - Update id=316338868 is handled. Duration 357 ms by bot id=8923461434
+2026-07-30 21:56:10,088 - aiogram.event - INFO - Update id=316338869 is handled. Duration 1217 ms by bot id=8923461434
+2026-07-30 22:25:40,317 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-07-30 22:25:40,339 - aiogram.dispatcher - INFO - Polling stopped for bot @ywg6bot id=8923461434 - 'سحب ارقام'
+2026-07-30 22:25:40,342 - aiogram.dispatcher - INFO - Polling stopped
+2026-07-30 22:25:40,615 - HybridBot - INFO - جاري إغلاق جميع المهام الخلفية...
+2026-07-30 22:25:40,617 - HybridBot - INFO - جاري انتظار إغلاق 2 مهمة معلقة...
+2026-07-30 22:25:40,618 - HybridBot - INFO - تم إيقاف حلقة مراقبة الأمان.
+2026-07-30 22:25:40,619 - HybridBot - INFO - تم إيقاف البوت بنجاح.
